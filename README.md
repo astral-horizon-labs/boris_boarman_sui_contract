@@ -15,7 +15,7 @@ treasury, and from that moment the recipient no longer depends on the admin.
   transferable to hand over the admin role.
 - Invariant: `balance >= reserved` after every call.
 
-Written up in [Reviewing my own Move contract, a year later](https://astral-horizon-labs.com/notes/reviewing-my-move-contract),
+Written up in [Reviewing my own Move contract](https://astral-horizon-labs.com/notes/reviewing-my-move-contract),
 which explains what was wrong with v1 and why v2 is shaped this way.
 
 ## API
